@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" >
 
-<title>lxz-进步青年</title>
+<title>“费力的” Gridea 博客 | lxz-进步青年</title>
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 
@@ -12,14 +12,23 @@
 <link rel="stylesheet" href="https://donkeylxz.github.io/blog//styles/main.css">
 
 
+  
+    <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css" />
+  
+
+  
+
 
 <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
 <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
 
 
 
-    <meta name="description" content="学习别人成长，通过分享进步！">
-    
+    <meta name="description" content="昨天不小心在 Gridea 配置里面把令牌（也就是 GitHub 上创建的 token ）给改掉了
+今天又花了好久来把这个东西迁移到了另外一个账号上
+同时也把评论的功能加上了，是基于 Gitalk 插件的
+这些看似简简单单的东西我来回鼓捣了..." />
+    <meta name="keywords" content="Idea,me" />
   </head>
   <body>
     <div id="app" class="main">
@@ -97,42 +106,61 @@
 
       <div class="main-container">
         <div class="content-container" data-aos="fade-up">
-          
-            <article class="post-item">
-              <div class="left">
-                <a href="https://donkeylxz.github.io/blog/post/fei-li-de-gridea-bo-ke/">
-                  <h2 class="post-title">“费力的” Gridea 博客</h2>
-                </a>
-                <div class="post-date">
-                  2020-04-10
-                </div>
-                <div class="post-abstract">
-                  
-                </div>
-              </div>
-              
-            </article>
-          
-            <article class="post-item">
-              <div class="left">
-                <a href="https://donkeylxz.github.io/blog/post/shi-jiao/">
-                  <h2 class="post-title">视角</h2>
-                </a>
-                <div class="post-date">
-                  2020-04-09
-                </div>
-                <div class="post-abstract">
-                  
-                </div>
-              </div>
-              
-            </article>
-          
+          <div class="post-detail">
+            <h2 class="post-title">“费力的” Gridea 博客</h2>
+            <div class="post-date">2020-04-10</div>
+            
+            <div class="post-content" v-pre>
+              <p>昨天不小心在 Gridea 配置里面把令牌（也就是 GitHub 上创建的 token ）给改掉了</p>
+<p>今天又花了好久来把这个东西迁移到了另外一个账号上</p>
+<p>同时也把评论的功能加上了，是基于 Gitalk 插件的</p>
+<p>这些看似简简单单的东西我来回鼓捣了半天多</p>
+<hr>
+<p>有时候看似一个特别简单的问题每个人操作起来都会是千奇百怪的结果</p>
+<p>所以能写一个好的教程是真的不容易的</p>
+<p>一个比较好的方式就是基于问题的时时沟通，把自己的问题向相关的牛人请教</p>
+<p>这其实也是我们在上学时候问老师的样子</p>
+<p>--</p>
+<p>但是自己不能永远做学生</p>
+<p>要学习道理和知识，</p>
+<p>在面对问题、解决问题时，我们就是在快速的成长</p>
+<p>要有意识地思考到这一点</p>
+<p>千万别让自己在问别人问题的环境中成为一个巨婴</p>
 
-          <div class="pagination-container">
-  
-  
-</div>
+            </div>
+            
+              <div class="tag-container">
+                
+                  <a href="https://donkeylxz.github.io/blog/tag/SFLtS2RWsV/" class="tag">
+                    Idea
+                  </a>
+                
+                  <a href="https://donkeylxz.github.io/blog/tag/TcpNIva8u/" class="tag">
+                    me
+                  </a>
+                
+              </div>
+            
+            
+              <div class="next-post">
+                <div class="next">下一篇</div>
+                <a href="https://donkeylxz.github.io/blog/post/shi-jiao/">
+                  <h3 class="post-title">
+                    视角
+                  </h3>
+                </a>
+              </div>
+            
+
+            
+              
+                <div id="gitalk-container" data-aos="fade-in"></div>
+              
+
+              
+            
+
+          </div>
 
         </div>
       </div>
@@ -153,6 +181,29 @@ var app = new Vue({
 </script>
 
 
+
+
+
+  
+    <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+    <script>
+
+      var gitalk = new Gitalk({
+        clientID: '8f836dd701746c2fa4a4',
+        clientSecret: '71661a3f44c30def1cd500b8514a011ccb372031',
+        repo: 'blog',
+        owner: 'donkeylxz',
+        admin: ['donkeylxz'],
+        id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
+        distractionFreeMode: false  // Facebook-like distraction free mode
+      })
+
+      gitalk.render('gitalk-container')
+
+    </script>
+  
+
+  
 
 
 
