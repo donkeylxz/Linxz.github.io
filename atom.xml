@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://donkeylxz.github.io/blog/</id>
     <title>lxz-进步青年</title>
-    <updated>2020-04-10T06:41:52.885Z</updated>
+    <updated>2020-04-10T06:45:24.337Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://donkeylxz.github.io/blog/"/>
     <link rel="self" href="https://donkeylxz.github.io/blog/atom.xml"/>
@@ -10,25 +10,4 @@
     <logo>https://donkeylxz.github.io/blog/images/avatar.png</logo>
     <icon>https://donkeylxz.github.io/blog/favicon.ico</icon>
     <rights>All rights reserved 2020, lxz-进步青年</rights>
-    <entry>
-        <title type="html"><![CDATA[About]]></title>
-        <id>https://donkeylxz.github.io/blog/post/about/</id>
-        <link href="https://donkeylxz.github.io/blog/post/about/">
-        </link>
-        <updated>2019-01-25T11:09:48.000Z</updated>
-        <content type="html"><![CDATA[<p>每一个普通的人都希望变得不普通，我也是一个希望变得不普通的普通人。</p>
-<p>当我们能够让别人看见我们的价值、认可我们价值的时候，我们就开始变得不普通了。一直以来我都没有能够找到自己的方向，或者说没有能够在一个合适的时机发挥出自己的价值并获得别人的认可。</p>
-<p>想了很久，可能是自己并不认识和了解自己，或者并没有及时把一些可能性放大，这也是我开始记录我的博客的原因。</p>
-<ol>
-<li>让自己更清晰地认识自己</li>
-<li>让自己及时发现自己可以努力的方向</li>
-</ol>
-<p>为什么选择博客这种形式呢？<br>
-可能因为没人看，现在的我是一个普通的我，未来的我会与会有影响力并不确定，但是这种从平凡开始追求自己价值的方式是我人物最幸福的。不论过程是否艰辛，不论结果会是如何，这都是我努力为自己奋斗的记录。</p>
-<p>我会写下什么？<br>
-说实话现在还不知道。拖了很久没有行动，也是因为并没有完整的目标写作体系。后来恍然明白，其实就该在写作中明白。希望我下次更新这个「About」的时候，可以有一个比较清晰的认识。</p>
-<p>最后写下一句阐释这个阶段的行为的话：<br>
-<strong>「学习别人成长，通过分享进步！」</strong></p>
-]]></content>
-    </entry>
 </feed>
