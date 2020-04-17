@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://donkeylxz.github.io/blog/</id>
     <title>lxz-进步青年</title>
-    <updated>2020-04-16T14:27:13.743Z</updated>
+    <updated>2020-04-17T12:46:51.817Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://donkeylxz.github.io/blog/"/>
     <link rel="self" href="https://donkeylxz.github.io/blog/atom.xml"/>
@@ -10,6 +10,39 @@
     <logo>https://donkeylxz.github.io/blog/images/avatar.png</logo>
     <icon>https://donkeylxz.github.io/blog/favicon.ico</icon>
     <rights>All rights reserved 2020, lxz-进步青年</rights>
+    <entry>
+        <title type="html"><![CDATA[盘神]]></title>
+        <id>https://donkeylxz.github.io/blog/post/pan-shen/</id>
+        <link href="https://donkeylxz.github.io/blog/post/pan-shen/">
+        </link>
+        <updated>2020-04-17T12:44:12.000Z</updated>
+        <content type="html"><![CDATA[<p>昨天和今天在公众号和B站看到了好几个讨论 PanDownload 作者被抓这件事情的</p>
+<p>大多数的人都是力挺这位伟大的作者，甚至好多人都拿其和「药神」来类比</p>
+<hr>
+<p>个人认为大公司确实是做得过分</p>
+<p>VIP整两种，并且两种最后还是会被限速</p>
+<p>即使是成本高，那用户也该有知情权啊</p>
+<p>不告诉用户下载限速，让用户把文档内容存储其中</p>
+<p>甚至VIP限速这种操作你也做得出来，并且做出来还不提醒一下</p>
+<p>这让多少用户苦不堪言啊，也不知道这种有没有法律约束一下子啊</p>
+<hr>
+<p>个人开发者本意是解决一个问题</p>
+<p>并且没有过分的盈利目的</p>
+<p>就是用技术解决问题的操作啊</p>
+<p>不就是侵犯了你的利益吗？</p>
+<p>可是大的公司之间就是在通过技术抢占利益啊？</p>
+<p>况且人家本身不牟利</p>
+<hr>
+<p>这件事我个人看到的是法律对弱者的管制和对强者的保护</p>
+<p>可能法律向来是对不同的人不对等的</p>
+<p>谁能更好的利用法律谁就会受到法律的保护</p>
+<p>当然，谁能更好的利用法律是很明显的</p>
+<hr>
+<p>当然我相信每个人都会让法律变得更好，大家一起努力</p>
+<hr>
+<p>某盘最近做活动了🤙🤙🤙</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[三天]]></title>
         <id>https://donkeylxz.github.io/blog/post/san-tian/</id>
