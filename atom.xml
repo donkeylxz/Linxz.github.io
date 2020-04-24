@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://donkeylxz.github.io/blog/</id>
     <title>lxz-进步青年</title>
-    <updated>2020-04-22T13:58:19.442Z</updated>
+    <updated>2020-04-24T13:47:36.755Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://donkeylxz.github.io/blog/"/>
     <link rel="self" href="https://donkeylxz.github.io/blog/atom.xml"/>
@@ -10,6 +10,59 @@
     <logo>https://donkeylxz.github.io/blog/images/avatar.png</logo>
     <icon>https://donkeylxz.github.io/blog/favicon.ico</icon>
     <rights>All rights reserved 2020, lxz-进步青年</rights>
+    <entry>
+        <title type="html"><![CDATA[Listen1 免费听歌神作]]></title>
+        <id>https://donkeylxz.github.io/blog/post/listen1-mian-fei-ting-ge-shen-zuo/</id>
+        <link href="https://donkeylxz.github.io/blog/post/listen1-mian-fei-ting-ge-shen-zuo/">
+        </link>
+        <updated>2020-04-24T13:44:10.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>Listen 1可以搜索和播放来自网易云音乐，虾米，QQ音乐，酷狗音乐，酷我音乐网站的歌曲，让你的曲库更全面。</p>
+<p>​																			—— Listen1</p>
+</blockquote>
+<hr>
+<p>最近因为做毕设和课设的原因，需要长时间对着电脑发呆</p>
+<p>有时候心情差的时候听听音乐会有很大的帮助</p>
+<p>但是受限于版权的限制，各大音乐供应商听到的歌曲很有限</p>
+<p>偶然间就又想起来了这个神作</p>
+<hr>
+<p>以前也尝试过用这个工具来听歌</p>
+<p>但是因为没有仔细研究歌曲同步的问题，而且电脑端的需求比较小</p>
+<p>所以并没有产生极大的兴趣</p>
+<p>这次因为长时间面对电脑的原因让我再次尝试这个神作，感觉挺香的</p>
+<hr>
+<h3 id="歌曲来源广">歌曲来源广</h3>
+<p>网易云音乐|虾米音乐|QQ音乐|酷狗音乐|酷我音乐|哔哩哔哩|咪咕音乐</p>
+<p>目前7大平台，歌曲的来源很广了</p>
+<p>基本上能够满足个人的需求</p>
+<p>如果这里搜索不到，那么单一的音乐平台更是不可能了</p>
+<p>可能唯一的解决的办法就是本地播放了</p>
+<hr>
+<h3 id="羸弱的歌单">羸弱的歌单</h3>
+<p>Listen1 支持创建歌单</p>
+<p>但是我们的需求可能是歌单的备份和维护</p>
+<p>目前可以本地备份和网络备份，但是基于网络端的备份体验可能并不出色</p>
+<p>事实上对于我们的基本需求也是满足的了的</p>
+<hr>
+<h3 id="快捷键">快捷键</h3>
+<figure data-type="image" tabindex="1"><img src="https://donkeylxz.github.io/blog//post-images/1587735954410.png" alt="快捷键列表" loading="lazy"></figure>
+<p>快捷键熟悉之后，使用起来也更加的方便</p>
+<p>通过 ？也能调出快捷键列表</p>
+<hr>
+<h3 id="全平台">全平台</h3>
+<p>不仅提供了Win32和Win63、Mac版本，而且还有Linux32和Linux64</p>
+<p>并且还提供了Android版本和浏览器插件</p>
+<p>真的可以说是全平台了</p>
+<hr>
+<h3 id="怎么用">怎么用</h3>
+<p>个人觉得作为网页端的听歌工具已经十分优秀了</p>
+<p>但是作为移动端的听歌工具，可能因为体验不好的原因很难产生兴趣</p>
+<p>所以当你需要长时间在电脑上听歌的时候，这是一个值得尝试的工具</p>
+<hr>
+<p>好的东西不知道能不能长久</p>
+<p>可能作为小众的选择是它们最好的选择</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[感情加法]]></title>
         <id>https://donkeylxz.github.io/blog/post/gan-qing-jia-fa/</id>
