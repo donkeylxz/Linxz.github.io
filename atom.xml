@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://donkeylxz.github.io/blog/</id>
     <title>lxz-进步青年</title>
-    <updated>2020-04-25T13:37:31.709Z</updated>
+    <updated>2020-04-26T13:54:25.961Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://donkeylxz.github.io/blog/"/>
     <link rel="self" href="https://donkeylxz.github.io/blog/atom.xml"/>
@@ -10,6 +10,36 @@
     <logo>https://donkeylxz.github.io/blog/images/avatar.png</logo>
     <icon>https://donkeylxz.github.io/blog/favicon.ico</icon>
     <rights>All rights reserved 2020, lxz-进步青年</rights>
+    <entry>
+        <title type="html"><![CDATA[毕业设计]]></title>
+        <id>https://donkeylxz.github.io/blog/post/bi-ye-she-ji/</id>
+        <link href="https://donkeylxz.github.io/blog/post/bi-ye-she-ji/">
+        </link>
+        <updated>2020-04-26T13:53:18.000Z</updated>
+        <content type="html"><![CDATA[<p>今天是踏踏实实地忙了一天的毕业设计</p>
+<p>下周五就要交建筑图纸和结构图纸了</p>
+<p>为了保证毕业设计能够及时完成，一般都会提前两天把上交的内容作出来</p>
+<hr>
+<p>今天上午的时间用来计算楼梯及配筋</p>
+<p>下午的时候就开始做结构图纸</p>
+<p>今天下午就把大部分内容做完了，只剩下楼梯的配筋图</p>
+<hr>
+<h3 id="为什么这么快呢">为什么这么快呢</h3>
+<ol>
+<li>自己的专注。之前的进度总是慢也是不想做，但是真正的开始做的时候会发现其实任务也不是那么的繁重</li>
+<li>找个帮手。对于土木设计来说，有些东西就是一个模板，也别人分配任务，每人看懂一点相互交流一下，会大大提高效率</li>
+<li>软件的发达。基于PKPM的设计，可以直接由计算结果导出结构配筋图，自己只需要修改部分的内容就行了</li>
+<li>借助前人的经验。虽说毕业设计的题目每年、每人都不同，但是套路确实相同的，通过分析学长、学姐的毕业设计很快可以找到规律，帮助自己理解和解决问题</li>
+<li>一点点敏感。之前学习了很多的软件，所以对于软件也有些了解，最起码没有恐惧，有时候，这份自以为的了解很有帮助</li>
+<li>环境。一个没有人打扰的环境也很重要。</li>
+</ol>
+<hr>
+<h3 id="快速学习和快速学习">“快速”学习和“快速学习”</h3>
+<p>我们总是想追求效率</p>
+<p>但是只为节约时间的速度，我们可以有很多的捷径，善假于物，很有帮助</p>
+<p>但是为了追求真正意义上的快速学习则要求我们以慢为快，学到了才算数，从头来过就是浪费时间</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[敬汉卿]]></title>
         <id>https://donkeylxz.github.io/blog/post/jing-han-qing/</id>
