@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://donkeylxz.github.io/blog/</id>
     <title>lxz-进步青年</title>
-    <updated>2020-04-26T13:54:25.961Z</updated>
+    <updated>2020-04-27T13:41:06.897Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://donkeylxz.github.io/blog/"/>
     <link rel="self" href="https://donkeylxz.github.io/blog/atom.xml"/>
@@ -10,6 +10,27 @@
     <logo>https://donkeylxz.github.io/blog/images/avatar.png</logo>
     <icon>https://donkeylxz.github.io/blog/favicon.ico</icon>
     <rights>All rights reserved 2020, lxz-进步青年</rights>
+    <entry>
+        <title type="html"><![CDATA[龙岭迷窟]]></title>
+        <id>https://donkeylxz.github.io/blog/post/long-ling-mi-ku/</id>
+        <link href="https://donkeylxz.github.io/blog/post/long-ling-mi-ku/">
+        </link>
+        <updated>2020-04-27T13:40:16.000Z</updated>
+        <content type="html"><![CDATA[<p>最近两天又刷完了一部剧，真的是长时间不看电视，但是电视的魅力依旧克服不了</p>
+<hr>
+<p>这部剧挺好看的，就起码令人很着迷，想看下去</p>
+<p>真的有看不下去的剧吗</p>
+<p>我觉得是有的，也可能是不对胃口</p>
+<hr>
+<p>看剧很爽，但是看剧伤眼睛</p>
+<p>尤其是这种没有限制的看剧</p>
+<p>真的是眼睛的一种负担</p>
+<p>这样来看，紧跟着追剧，忍受更新慢是好事情</p>
+<hr>
+<p>期待下部剧的上映</p>
+<p>同时也希望白夜追凶2还是有希望的</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[毕业设计]]></title>
         <id>https://donkeylxz.github.io/blog/post/bi-ye-she-ji/</id>
