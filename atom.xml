@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://donkeylxz.github.io/blog/</id>
     <title>lxz-进步青年</title>
-    <updated>2020-04-27T13:41:06.897Z</updated>
+    <updated>2020-04-30T14:59:56.571Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://donkeylxz.github.io/blog/"/>
     <link rel="self" href="https://donkeylxz.github.io/blog/atom.xml"/>
@@ -10,6 +10,20 @@
     <logo>https://donkeylxz.github.io/blog/images/avatar.png</logo>
     <icon>https://donkeylxz.github.io/blog/favicon.ico</icon>
     <rights>All rights reserved 2020, lxz-进步青年</rights>
+    <entry>
+        <title type="html"><![CDATA[20200430]]></title>
+        <id>https://donkeylxz.github.io/blog/post/20200430/</id>
+        <link href="https://donkeylxz.github.io/blog/post/20200430/">
+        </link>
+        <updated>2020-04-30T14:56:46.000Z</updated>
+        <content type="html"><![CDATA[<p>这两天毕业设计出了一些问题<br>
+反反复复的修改把自己很多的负面的情绪激起来了<br>
+并且还依靠着刷剧来刷掉自己的沉闷<br>
+可是依旧没有什么改变<br>
+希望交完阶段任务的自己能够调整过来<br>
+明天好好反思一下</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[龙岭迷窟]]></title>
         <id>https://donkeylxz.github.io/blog/post/long-ling-mi-ku/</id>
