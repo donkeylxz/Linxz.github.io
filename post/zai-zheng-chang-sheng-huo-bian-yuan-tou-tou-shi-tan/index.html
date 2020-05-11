@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" >
 
-<title>思维 | lxz-进步青年</title>
+<title>在正常生活边缘偷偷试探 | lxz-进步青年</title>
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 
@@ -12,13 +12,32 @@
 <link rel="stylesheet" href="https://donkeylxz.github.io/blog//styles/main.css">
 
 
+  
+    <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css" />
+  
+
+  
+
 
 <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
 <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
 
 
 
-    <meta name="description" content="学习别人成长，通过分享进步！">
+    <meta name="description" content="
+由于疫情的原因没有上课
+在家坐了好久了
+今天想为「五件事」做点努力就去跑步了
+结果跑了不到 1.5 公里就累的快要顶不住了
+
+锻炼是个需要长期坚持、长期投资的活儿
+而且久坐的危害实在太大
+也希望有更多的人能够多锻炼
+哪怕只是走走
+
+
+除了..." />
+    <meta name="keywords" content="" />
   </head>
   <body>
     <div id="app" class="main">
@@ -96,58 +115,52 @@
 
       <div class="main-container">
         <div class="content-container" data-aos="fade-up">
-          <h2 class="current-tag">标签: 思维</h2>
-          
-            <article class="post-item">
-              <div class="left">
-                <a href="https://donkeylxz.github.io/blog/post/bi-ye-she-ji/">
-                  <h2 class="post-title">毕业设计</h2>
-                </a>
-                <div class="post-date">
-                  2020-04-26
-                </div>
-                <div class="post-abstract">
-                  
-                </div>
-              </div>
-              
-            </article>
-          
-            <article class="post-item">
-              <div class="left">
-                <a href="https://donkeylxz.github.io/blog/post/gan-qing-jia-fa/">
-                  <h2 class="post-title">感情加法</h2>
-                </a>
-                <div class="post-date">
-                  2020-04-22
-                </div>
-                <div class="post-abstract">
-                  
-                </div>
-              </div>
-              
-            </article>
-          
-            <article class="post-item">
-              <div class="left">
-                <a href="https://donkeylxz.github.io/blog/post/shi-jiao/">
-                  <h2 class="post-title">视角</h2>
-                </a>
-                <div class="post-date">
-                  2020-04-09
-                </div>
-                <div class="post-abstract">
-                  
-                </div>
-              </div>
-              
-            </article>
-          
+          <div class="post-detail">
+            <h2 class="post-title">在正常生活边缘偷偷试探</h2>
+            <div class="post-date">2020-05-11</div>
+            
+            <div class="post-content" v-pre>
+              <figure data-type="image" tabindex="1"><img src="https://donkeylxz.github.io/blog//post-images/1589207979411.jpg" alt="拼命跑的1.42公里" loading="lazy"></figure>
+<p>由于疫情的原因没有上课</p>
+<p>在家坐了好久了</p>
+<p>今天想为「<a href="https://donkeylxz.github.io/blog/post/5-jian-shi/" title="五件事">五件事</a>」做点努力就去跑步了</p>
+<p>结果跑了不到 1.5 公里就累的快要顶不住了</p>
+<hr>
+<p>锻炼是个需要长期坚持、长期投资的活儿</p>
+<p>而且久坐的危害实在太大</p>
+<p>也希望有更多的人能够多锻炼</p>
+<p>哪怕只是走走</p>
+<hr>
+<figure data-type="image" tabindex="2"><img src="https://donkeylxz.github.io/blog//post-images/1589207605061.jpg" alt="手机盒的利用" loading="lazy"></figure>
+<p>除了跑步之外</p>
+<p>今天还稍稍整理了一下桌面</p>
+<p>利用了一下旧的手机盒子</p>
+<p>稍微收纳一下就显得好多了</p>
+<hr>
+<p>在正常生活边缘偷偷试探，加油！💪</p>
 
-          <div class="pagination-container">
-  
-  
-</div>
+            </div>
+            
+            
+              <div class="next-post">
+                <div class="next">下一篇</div>
+                <a href="https://donkeylxz.github.io/blog/post/2020-nian-wu-yi/">
+                  <h3 class="post-title">
+                    2020年五一
+                  </h3>
+                </a>
+              </div>
+            
+
+            
+              
+                <div id="gitalk-container" data-aos="fade-in"></div>
+              
+
+              
+            
+
+          </div>
 
         </div>
       </div>
@@ -168,6 +181,29 @@ var app = new Vue({
 </script>
 
 
+
+
+
+  
+    <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+    <script>
+
+      var gitalk = new Gitalk({
+        clientID: '8f836dd701746c2fa4a4',
+        clientSecret: '71661a3f44c30def1cd500b8514a011ccb372031',
+        repo: 'blog',
+        owner: 'donkeylxz',
+        admin: ['donkeylxz'],
+        id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
+        distractionFreeMode: false  // Facebook-like distraction free mode
+      })
+
+      gitalk.render('gitalk-container')
+
+    </script>
+  
+
+  
 
 
 
