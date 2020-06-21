@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://donkeylxz.github.io/blog/</id>
     <title>lxz-进步青年</title>
-    <updated>2020-06-09T12:46:24.910Z</updated>
+    <updated>2020-06-21T14:28:11.777Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://donkeylxz.github.io/blog/"/>
     <link rel="self" href="https://donkeylxz.github.io/blog/atom.xml"/>
@@ -10,6 +10,19 @@
     <logo>https://donkeylxz.github.io/blog/images/avatar.png</logo>
     <icon>https://donkeylxz.github.io/blog/favicon.ico</icon>
     <rights>All rights reserved 2020, lxz-进步青年</rights>
+    <entry>
+        <title type="html"><![CDATA[只有 10 天说再见]]></title>
+        <id>https://donkeylxz.github.io/blog/post/zhi-you-10-tian-shuo-zai-jian/</id>
+        <link href="https://donkeylxz.github.io/blog/post/zhi-you-10-tian-shuo-zai-jian/">
+        </link>
+        <updated>2020-06-21T14:26:58.000Z</updated>
+        <content type="html"><![CDATA[<p>我离开了家 10 天，回到了学校</p>
+<p>在这 10 天里，整理了所有的档案，提交了毕设和课设的成果，领取了毕业证和学位证，拍了毕业照，喝了几顿酒，在心里和工大的一切说了声再见……</p>
+<p>我毕业了</p>
+<hr>
+<p>接下来抽时间透过这十天写写这四年吧，怕时间久了忘记，给自己留份记忆！</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2020 年毕业的我，终于要开学了]]></title>
         <id>https://donkeylxz.github.io/blog/post/2020-nian-bi-ye-de-wo-zhong-yu-yao-kai-xue-liao/</id>
@@ -492,30 +505,6 @@
 <p>当然我相信每个人都会让法律变得更好，大家一起努力</p>
 <hr>
 <p>某盘最近做活动了🤙🤙🤙</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[三天]]></title>
-        <id>https://donkeylxz.github.io/blog/post/san-tian/</id>
-        <link href="https://donkeylxz.github.io/blog/post/san-tian/">
-        </link>
-        <updated>2020-04-16T14:22:46.000Z</updated>
-        <content type="html"><![CDATA[<h3 id="pandownload">Pandownload</h3>
-<p>作者被抓了，十分可惜。</p>
-<p>对于普通的用户群体而言，free是大家所喜爱的，但是通常我们总是也要付出一些代价的。当有第三方出来改变游戏规则的时候，就会变得不一样。但是提供违法方式的第三方不会长久的，同时这种第三方可能也不会轻易灭绝的。需求存在的时候，总会有各种各样满足需求的方式。</p>
-<p>个人觉得对用户好的方式就是行业间的良性的竞争，这时候企业会压缩自己的获利空间，也就是用户会获得更好的体验。</p>
-<p>在法律健全的路上，没有惋惜和可惜，只有对法律更多的认识和敬畏。</p>
-<h3 id="回家做小工">回家做小工</h3>
-<p>自己回老家待了三天，原因就是把门口的平台（家门口的一个平台，平时会在闲坐休息）给做了一下</p>
-<p>事情缘由是这样的：农村厕所改革，不能保留以前的旱厕，我们家在马路的旁边，所以村子的政府就把厕所拆掉了，同时也把我们家原来的台子给拆掉了。但是我们家的那个台子是有房契的，按照着正常的流程是不用拆除，或者是不用完全的拆除，但是相关人员并没有核实材料就采取了行动，所以就有这下文。</p>
-<p>花了三天时间，找了好多的家里长辈帮忙，请了一个大工（泥瓦匠），才完成了整个流程。</p>
-<p>之所以要写就是觉得村子政府这次的行为不太妥当：</p>
-<ol>
-<li>没有核实材料就拆除</li>
-<li>旱厕改革没有解决方案就把现在的解决方案给干掉，我也没有查阅相关的政策文件，基于这个事实，这个行为是十分欠妥当的。厕所不是别的东西，是刚需，没有给出老百姓合理的替代方案就强行拆除，这肯定是不会被大家接收的。</li>
-<li>拆除后的工作不到位：错拆后的政府没有完全的解决这个问题，需要普通的百姓付出几天的努力来重新作出和之前一样的结果。甚至没有地契的人依然把外面的平台修筑起来了。那么这次的拆除活动的真实的意义在哪里呢？难道知识做做样子吗？让老百姓付出巨大努力的做样子就是一个大问题。</li>
-</ol>
-<p>上层的政策落实下来的时候可能会出现问题，大问题永远都是从小问题来的，我相信村子的政府肯定能够得到村名的反对和不理解，这就是我们因地制宜，实事求是的时候，解决问题的好方式不是强制力，而是问题解决后的满意度。我们的政策会越来越好，因为我们的目标是好的，解决了路上的小问题，远方就是胜利。</p>
 ]]></content>
     </entry>
 </feed>
