@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://donkeylxz.github.io/blog/</id>
     <title>lxz-进步青年</title>
-    <updated>2020-06-21T14:28:55.268Z</updated>
+    <updated>2020-06-22T14:29:07.924Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://donkeylxz.github.io/blog/"/>
     <link rel="self" href="https://donkeylxz.github.io/blog/atom.xml"/>
@@ -10,6 +10,28 @@
     <logo>https://donkeylxz.github.io/blog/images/avatar.png</logo>
     <icon>https://donkeylxz.github.io/blog/favicon.ico</icon>
     <rights>All rights reserved 2020, lxz-进步青年</rights>
+    <entry>
+        <title type="html"><![CDATA[四年的简短故事]]></title>
+        <id>https://donkeylxz.github.io/blog/post/si-nian-de-jian-duan-gu-shi/</id>
+        <link href="https://donkeylxz.github.io/blog/post/si-nian-de-jian-duan-gu-shi/">
+        </link>
+        <updated>2020-06-22T14:20:05.000Z</updated>
+        <content type="html"><![CDATA[<p>和工大相遇是在 2016 年的夏天。</p>
+<p>那年我还在北京打工，家里收到了一份邮政包裹，这就是我接下来四年的生活的邀请信。</p>
+<figure data-type="image" tabindex="1"><img src="https://donkeylxz.github.io/blog//post-images/1592835652056.jpg" alt="录取通知书" loading="lazy"></figure>
+<p>刚开始拿到录取通知书后内心只是多了一份安定，没有欣喜，没有波澜，似乎还有一股失意。真正对自己河工人身份的认可是来自于这枚小小的校徽，透过这种仪式感瞬间感受到了和工大的距离消失了。</p>
+<figure data-type="image" tabindex="2"><img src="https://donkeylxz.github.io/blog//post-images/1592835678917.jpg" alt="校徽" loading="lazy"></figure>
+<p>这张一卡通也成了四年历程的通行证，吃饭，洗澡，回宿舍，打水，考试……</p>
+<figure data-type="image" tabindex="3"><img src="https://donkeylxz.github.io/blog//post-images/1592835707989.jpg" alt="校园卡" loading="lazy"></figure>
+<p>大一的时候生活内容确实丰富，班级活动和社团活动接连不断，主要也是因为刚从高中走出来，还没有太适应清闲的生活，所以劲头儿强劲，东奔西跑。</p>
+<p>这年对于大多数人来说都是很丰富的，有人参加学习社团，有人晚上在路灯下斗舞，有人滑滑板，有人在学院忙于学生工作，有人在校团委忙忙碌碌。我们结交了很多的朋友，度过了大学最为繁华的一年。</p>
+<p>大二的时候就沉寂了，慢慢适应了懒字，甚至连宿舍门都不想出去了，这一年很多人学会了碌碌无为，坐等吃饭。</p>
+<p>大三的时候，考研就成了热词。大家努力地摆脱大二时的生活节奏，去找寻高中的劲头儿，甚至很多人把这当为学校的生活的续命，焦虑到头秃。</p>
+<p>原来大四的安排是完成考研，拿个好大学的录取通知书，读个研究生，下学期吃吃喝喝，玩玩乐乐。可是遗憾的是没有任何一件事能够达成，最后也只有 10 天和学校说再见。</p>
+<p>就这样，我毕业了。</p>
+<figure data-type="image" tabindex="4"><img src="https://donkeylxz.github.io/blog//post-images/1592836104073.jpg" alt="毕业" loading="lazy"></figure>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[只有 10 天说再见]]></title>
         <id>https://donkeylxz.github.io/blog/post/zhi-you-10-tian-shuo-zai-jian/</id>
@@ -472,39 +494,6 @@
 <p>2020 年是 5 件事的开始</p>
 <p>只要我还在写 Blog，今后的每年会写下 5 件事</p>
 <p>帮助自己活得更好</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[盘神]]></title>
-        <id>https://donkeylxz.github.io/blog/post/pan-shen/</id>
-        <link href="https://donkeylxz.github.io/blog/post/pan-shen/">
-        </link>
-        <updated>2020-04-17T12:44:12.000Z</updated>
-        <content type="html"><![CDATA[<p>昨天和今天在公众号和B站看到了好几个讨论 PanDownload 作者被抓这件事情的</p>
-<p>大多数的人都是力挺这位伟大的作者，甚至好多人都拿其和「药神」来类比</p>
-<hr>
-<p>个人认为大公司确实是做得过分</p>
-<p>VIP整两种，并且两种最后还是会被限速</p>
-<p>即使是成本高，那用户也该有知情权啊</p>
-<p>不告诉用户下载限速，让用户把文档内容存储其中</p>
-<p>甚至VIP限速这种操作你也做得出来，并且做出来还不提醒一下</p>
-<p>这让多少用户苦不堪言啊，也不知道这种有没有法律约束一下子啊</p>
-<hr>
-<p>个人开发者本意是解决一个问题</p>
-<p>并且没有过分的盈利目的</p>
-<p>就是用技术解决问题的操作啊</p>
-<p>不就是侵犯了你的利益吗？</p>
-<p>可是大的公司之间就是在通过技术抢占利益啊？</p>
-<p>况且人家本身不牟利</p>
-<hr>
-<p>这件事我个人看到的是法律对弱者的管制和对强者的保护</p>
-<p>可能法律向来是对不同的人不对等的</p>
-<p>谁能更好的利用法律谁就会受到法律的保护</p>
-<p>当然，谁能更好的利用法律是很明显的</p>
-<hr>
-<p>当然我相信每个人都会让法律变得更好，大家一起努力</p>
-<hr>
-<p>某盘最近做活动了🤙🤙🤙</p>
 ]]></content>
     </entry>
 </feed>
