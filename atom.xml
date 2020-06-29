@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://donkeylxz.github.io/blog/</id>
     <title>lxz-进步青年</title>
-    <updated>2020-06-29T13:16:22.929Z</updated>
+    <updated>2020-06-29T13:18:14.397Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://donkeylxz.github.io/blog/"/>
     <link rel="self" href="https://donkeylxz.github.io/blog/atom.xml"/>
@@ -16,10 +16,8 @@
         <link href="https://donkeylxz.github.io/blog/post/yi-ge-su-she-liu-ge-ren-si-nian/">
         </link>
         <updated>2020-06-29T13:02:47.000Z</updated>
-        <content type="html"><![CDATA[<pre><code>    ![](https://donkeylxz.github.io/blog//post-images/1593436010377.jpg)
-
-    2020 年我毕业了，从 2016~2020 度过了4年。
-</code></pre>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://donkeylxz.github.io/blog//post-images/1593436010377.jpg" alt="" loading="lazy"></figure>
+<p>2020 年我毕业了，从 2016~2020 度过了4年。</p>
 <p>在这 4 年里，与我一同度过最长时间的是我的 5 名室友。我记得以前很多人都说大学友谊很不纯粹，但这绝不是绝对的，拿出诚意你就一定能获得友谊。</p>
 <p>对于一所普通的一本学校来说，你会有很多闲暇的时间待在宿舍，所以你们宿舍几个人之间相处的时间会很长。和宿舍的朋友搞好关系，会让自己过得更舒服。</p>
 <p>有人会觉得这很功利，要自己出于某种目的去搞好关系，但是事实上我们不用做一些别的东西，只是显得更合群一点，自然而然的就会融入大家。</p>
@@ -28,7 +26,7 @@
 <p>毕业回来那天，我拿着手机翻着我们的相册，不舍的思绪竟越来越浓，甚至得故意去转移自己的注意力，一个宿舍 6 个人的 4 年生活是平凡而又普通的，但 4 年终究很长，长到留下了浓浓的不舍。</p>
 <p>希望各位老哥努力奋斗，前程似锦。</p>
 <p>毕业快乐，722！</p>
-<pre><code>    ![](https://donkeylxz.github.io/blog//post-images/1593436024119.jpg)</code></pre>
+<figure data-type="image" tabindex="2"><img src="https://donkeylxz.github.io/blog//post-images/1593436024119.jpg" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
