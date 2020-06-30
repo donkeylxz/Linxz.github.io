@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://donkeylxz.github.io/blog/</id>
     <title>lxz-进步青年</title>
-    <updated>2020-06-29T13:19:41.712Z</updated>
+    <updated>2020-06-30T13:35:31.842Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://donkeylxz.github.io/blog/"/>
     <link rel="self" href="https://donkeylxz.github.io/blog/atom.xml"/>
@@ -10,6 +10,33 @@
     <logo>https://donkeylxz.github.io/blog/images/avatar.png</logo>
     <icon>https://donkeylxz.github.io/blog/favicon.ico</icon>
     <rights>All rights reserved 2020, lxz-进步青年</rights>
+    <entry>
+        <title type="html"><![CDATA[自己做了一个画册才知道，前辈的经验都是对的]]></title>
+        <id>https://donkeylxz.github.io/blog/post/zi-ji-zuo-liao-yi-ge-hua-ce-cai-zhi-dao-qian-bei-de-jing-yan-du-shi-dui-de/</id>
+        <link href="https://donkeylxz.github.io/blog/post/zi-ji-zuo-liao-yi-ge-hua-ce-cai-zhi-dao-qian-bei-de-jing-yan-du-shi-dui-de/">
+        </link>
+        <updated>2020-06-30T13:33:13.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://donkeylxz.github.io/blog//post-images/1593524094131.jpg" alt="毕业画册" loading="lazy"></figure>
+<p>昨天的博客上的配图来源于我这几天做的一个毕业相册</p>
+<p>相册的素材均来自于这一次我们在学校10天时间内拍摄的照片，然后自己根据网上的模板制作了整个相册。</p>
+<p>相册完成后，发现了一些不如意的地方，在制作的过程中也有一些小的问题，借这篇文章复盘一下这次设计过程。</p>
+<ol>
+<li>
+<p>正确理解模板的作用是套用模板的第一步。模板是用来省时省力的，甚至对于小白来说模板是一切的基础。但是模板省时省力的背后代表了自由度的丧失，所以这就是两个力量在做一个权衡。当我们渴望高自由度的时候，但是又不太会设计的时候，我们可以依葫芦画瓢，只取模板的版式，把剩余的元素都替换掉。</p>
+</li>
+<li>
+<p>做一个完整的设计作品需要一套视觉规范，这是需要在前期工作中定下来的。如果没有一套设计规范，在设计的过程中想到哪儿做哪儿，会带来凌乱的感觉。</p>
+</li>
+<li>
+<p>对于一个毕业相册来说，其主要的目的是为了留念，记录我们 4 年生活的点点滴滴和美好记忆。所以需要我们把平时值得铭记的时刻都提前写下来，作为相册中的文案部分。如果只是在制作过程中去想文案，整个相册的结构会比较凌乱，就会有一种拼凑感。</p>
+</li>
+<li>
+<p>对于一个设计来说，要想让它有鲜明的特征，是需要在其中融入一些特定的元素的。所以我们制作一个学生相册，如果能够在里面融入一些自行车，气球，纸飞机，学士服，教室的卡通插画以及一些常见的毕业祝福语就会使得设计有更加浓郁的特征。而这些工作需要做在前期，我们可以看同类型的设计，广泛的搜集这些元素，并在我们的设计过程中适当的加入其中。</p>
+</li>
+</ol>
+<p>这个画册设计过程对自己是一种煎熬，前期的准备工作都没有做，又急于求成，所以过程中有时不时的负面情绪，最后的成果也有很多不满意的地方。但是，整个设计过程自己学习到了很多，验证了之前学习的设计流程，虽是失败的但是确是有收获的。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一个宿舍，六个人，四年]]></title>
         <id>https://donkeylxz.github.io/blog/post/yi-ge-su-she-liu-ge-ren-si-nian/</id>
@@ -419,45 +446,6 @@
 <p>再加上在「微信读书」中微信公众号订阅就可以有一个比较完善的阅读内容和一个比较优质的阅读体验</p>
 <p>推荐大家尝试一下</p>
 <p>当然这就是个个人习惯的问题，每个人都有自己的解决方案，适合自己的才是最好的</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最惨毕业生]]></title>
-        <id>https://donkeylxz.github.io/blog/post/zui-can-bi-ye-sheng/</id>
-        <link href="https://donkeylxz.github.io/blog/post/zui-can-bi-ye-sheng/">
-        </link>
-        <updated>2020-04-19T14:48:41.000Z</updated>
-        <content type="html"><![CDATA[<p>今年受疫情的影响，开学时间是各种延后</p>
-<p>作为今天的毕业生感受到了慢慢的幸福</p>
-<hr>
-<p>毕业设计是百般困难</p>
-<p>本来设计了一个挺漂亮的建筑</p>
-<p>但是限于自己能力有限，和老师沟通也不方便</p>
-<p>慢慢被自己砍掉了好多的部分</p>
-<p>而且还多的问题询问也受到了限制</p>
-<hr>
-<p>毕业照可能成为了奢望</p>
-<p>以前的学校的学长学姐们拍毕业照的周期可能是一个学期</p>
-<p>现实点看，我们就剩下不到两个月的时间里</p>
-<p>而且目前还不开学</p>
-<p>开学了可能不能照</p>
-<hr>
-<p>毕业晚会就是奢望</p>
-<p>以前的毕业生最起码有学校和学院两场毕业晚会参加</p>
-<p>今年的我们已经看不到希望了</p>
-<p>这种聚集人员的大型活动</p>
-<p>谁敢作死组织筹备呢</p>
-<hr>
-<p>最近两天学校统计返校的人数了</p>
-<p>受专业的影响</p>
-<p>有的专业劝返校，有的专业劝不返校</p>
-<p>返校后生活会受到各种限制</p>
-<p>这是让我们重新体验高中生活呢</p>
-<hr>
-<p>这届的毕业生是真的挺惨的</p>
-<p>这还没聊学校外面的世界</p>
-<p>但是对我们来说是具有深刻印象的</p>
-<p>2020 当希望与现实冲突的时候，留下的是铭记</p>
 ]]></content>
     </entry>
 </feed>
