@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://donkeylxz.github.io/blog/</id>
     <title>lxz-进步青年</title>
-    <updated>2020-06-30T13:35:31.842Z</updated>
+    <updated>2020-07-01T13:15:35.305Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://donkeylxz.github.io/blog/"/>
     <link rel="self" href="https://donkeylxz.github.io/blog/atom.xml"/>
@@ -10,6 +10,24 @@
     <logo>https://donkeylxz.github.io/blog/images/avatar.png</logo>
     <icon>https://donkeylxz.github.io/blog/favicon.ico</icon>
     <rights>All rights reserved 2020, lxz-进步青年</rights>
+    <entry>
+        <title type="html"><![CDATA[23年了，我长大了吗？]]></title>
+        <id>https://donkeylxz.github.io/blog/post/23-nian-liao-wo-chang-da-liao-ma/</id>
+        <link href="https://donkeylxz.github.io/blog/post/23-nian-liao-wo-chang-da-liao-ma/">
+        </link>
+        <updated>2020-07-01T13:12:26.000Z</updated>
+        <content type="html"><![CDATA[<p>2020 年考研失败，毕业，工作。</p>
+<p>今年我23岁。</p>
+<p>23岁的我，长大了吗？</p>
+<p>很小的时候，总是听说小孩子总想长大，像个大人一样。我觉得自己从来没有这样的想法，我单纯渴望能够挣钱，能够养活自己，能够体体面面，能够宽裕到接济别人。也许这就是别的孩子渴望的大人的样子。</p>
+<p>直到读到了大学，「我该如何步入社会？」这个问题才真正的闯入我的思想中，小时候的渴望慢慢地变得越来越不可能，所以自己也越来越焦虑。一方面是因为不得不让自己慢慢妥协；一方面看着这个自己想改变的家毫无变化。日子一天一天的在流逝着，直到大学毕业，这种焦虑突然有种被打破的感觉。</p>
+<p>以前总也理解不了父母，小气、省吃俭用、不懂得享受生活，后来看看周边的大人，原来大人都是这个样子。我就想什么会让我变成这个样子，什么会让我妥协？</p>
+<p>答案就是两个字：现实。现实中我没有挣那么多的钱；实中我的工作根本没有给我留出我需要的时间；现实中我的亲人会生病，会死亡，会离开；现实中我顶着炎炎烈日去医院给姥爷送饭；现实中我总也是很堕落。</p>
+<p>7 月 4 号我就要离开家去工作了，第一次，很生疏，我不知道自己能不能干好，会混成什么样子。</p>
+<p>今天妈妈陪我去买了衣服，我的第一套正装，我在想：穿上它，我长大了吗？</p>
+<figure data-type="image" tabindex="1"><img src="https://donkeylxz.github.io/blog//post-images/1593609319484.jpg" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[自己做了一个画册才知道，前辈的经验都是对的]]></title>
         <id>https://donkeylxz.github.io/blog/post/zi-ji-zuo-liao-yi-ge-hua-ce-cai-zhi-dao-qian-bei-de-jing-yan-du-shi-dui-de/</id>
@@ -419,33 +437,6 @@
 <p>时间总是像雨一样，它能冲刷掉一切</p>
 <p>我们能够影响的是变化的快慢、变化的方向</p>
 <p>如果不想失去，珍惜是最好的选择</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今日热榜]]></title>
-        <id>https://donkeylxz.github.io/blog/post/jin-ri-re-bang/</id>
-        <link href="https://donkeylxz.github.io/blog/post/jin-ri-re-bang/">
-        </link>
-        <updated>2020-04-20T13:34:22.000Z</updated>
-        <content type="html"><![CDATA[<p>在这个时代我们每天要阅读海量的信息</p>
-<p>也有不同的观点的在相互驳斥</p>
-<p>有人认为不应该碎片化阅读；有人认为应该好好利用琐碎的时间</p>
-<p>个人觉得这就是个纯粹的个人选择，有了自己的目标，不论怎么获取信息都是可以带来价值的</p>
-<hr>
-<p>今天讨论的是一个 APP：「今日热榜」</p>
-<p>当然也可以在网页端使用：<a href="https://tophub.today/" title="今日热榜">今日热榜官网</a></p>
-<p>前一段时间APP被下架了，而且一度不能正常使用</p>
-<p>但是今天在官网下载的新版本还是可以正常使用的</p>
-<hr>
-<p>这是一个很好的工具</p>
-<p>内部聚合了很多优质的站点</p>
-<p>相比较 RSS 工具，我觉得这个更加方便和简单</p>
-<p>其中的「实时榜中榜」等功能也是一个优质地了解信息的工具</p>
-<hr>
-<p>个人来说这个工具基本包含了我常看的一些信息源</p>
-<p>再加上在「微信读书」中微信公众号订阅就可以有一个比较完善的阅读内容和一个比较优质的阅读体验</p>
-<p>推荐大家尝试一下</p>
-<p>当然这就是个个人习惯的问题，每个人都有自己的解决方案，适合自己的才是最好的</p>
 ]]></content>
     </entry>
 </feed>
